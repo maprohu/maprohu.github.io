@@ -1,11 +1,11 @@
 {
-    "name": "mhu_catalog",
-    "short_name": "mhu_catalog",
+    "name": "MHU Catalog",
+    "short_name": "MHU Catalog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Links to apps developed by me.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
